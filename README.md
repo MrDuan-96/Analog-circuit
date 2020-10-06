@@ -1,5 +1,5 @@
 # Analog-circuit
-Record the process of analog circuit
+Record the process of learning analog circuit
 ## 第一章
 ### 1.PN结
     人类电子行业的发展史是由电子管转向晶体管的过程，第一个晶体管的产生无疑是推动电子行业飞速发展的契机。
@@ -10,3 +10,4 @@ Record the process of analog circuit
     
     使用工艺将P型半导体和N型半导体进行拼接，即可在两端形成PN结
           
+   晶体管放大电路的三种接法分为共射接法，共基接法，共集接法
