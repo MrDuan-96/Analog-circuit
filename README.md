@@ -58,8 +58,27 @@ Record the process of learning analog circuit
     二、工作原理
     
  
-![avatar](https://github.com/MrDuan-96/Analog-circuit/blob/master/image/wKhk713mAyaAfEUWAAA_CTEWvaw730.jpg)
+![avatar] (https://github.com/MrDuan-96/Analog-circuit/blob/master/image/wKhk713mAyaAfEUWAAA_CTEWvaw730.jpg)
 https://dfsimg1.hqewimg.com/group1/M00/12/63/wKhk713mAyaAfEUWAAA_CTEWvaw730.jpg
+
+    MOS管相当于用gs两端的电压去控制ds两端之间的电流
+    
+    箭头的方向指的是PN结的方向
+    
+    当Ugs>Ugs(th)开启电压时，ds之间导通
+    
+    保持Ugs不变，随着Uds两端的电压不断升高，Ids逐渐升高，但会趋于定值
+    
+    当Uds加到一定程度时，电流只和Ugs有关。
+    
+    
         
- 
- 
+### 5.基本放大电路
+
+    放大电路的构成，本质上是控制能量。
+    必要条件是有源元件
+    前提条件是不失真
+    
+    三极管放大，本质上是发射结正偏，集电极翻偏
+
+    用多套电源解决，衍生为用一套电源解决，一般用电解电容
