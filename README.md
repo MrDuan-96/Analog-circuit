@@ -43,5 +43,21 @@ Record the process of learning analog circuit
           常作为宽频带放大电路。
 
  ### 4.MOS管
+    MOS管可分为结型场效应管和绝缘栅型场效应管
+    MOS管几乎无电流，因此其功耗而言特别低，输入电阻非常高，受温度影响较小。
+    仅多子参与导电，几乎无功耗
+    
+ #### 4.1 N沟道增强型MOS管
+    
+    
+    一、结构
+        1° g 栅极 控制极   -> b
+        2° s 源极 载流子的源泉  -> e
+        3° d 漏极 载流子的漏出  -> c
+    
+    二、工作原理
+    ![avatar](http://baidu.com/pic/doge.png)
+https://dfsimg1.hqewimg.com/group1/M00/12/63/wKhk713mAyaAfEUWAAA_CTEWvaw730.jpg
+        
  
  
