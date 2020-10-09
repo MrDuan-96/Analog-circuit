@@ -56,7 +56,8 @@ Record the process of learning analog circuit
         3° d 漏极 载流子的漏出  -> c
     
     二、工作原理
-    ![avatar](http://baidu.com/pic/doge.png)
+    ![avatar](https://dfsimg1.hqewimg.com/group1/M00/12/63/wKhk713mAyaAfEUWAAA_CTEWvaw730.jpg
+)
 https://dfsimg1.hqewimg.com/group1/M00/12/63/wKhk713mAyaAfEUWAAA_CTEWvaw730.jpg
         
  
